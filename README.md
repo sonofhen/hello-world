@@ -1,2 +1,3 @@
 # hello-world
 GitHub Training - hello-world
+Just learning gitHub's code management...
